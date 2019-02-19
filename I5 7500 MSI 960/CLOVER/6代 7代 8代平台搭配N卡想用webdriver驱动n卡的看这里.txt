@@ -1,0 +1,1 @@
+首先选用config 可启用驱动webdriver，另外将driver64UEFI下的EmuVariableUefi-64.efi.bak文件名中的.bak去掉后尝试即可驱动N卡。

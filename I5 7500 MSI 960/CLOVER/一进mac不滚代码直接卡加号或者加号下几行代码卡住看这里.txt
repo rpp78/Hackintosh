@@ -1,0 +1,1 @@
+将drivers64UEFI下的OsxAptioFixDrv-64.efi删除，再将OsxAptioFix2Drv-free2000.efi.bak的.bak后缀去掉即可.如果依旧卡加号或者开头就卡，建议换内存条插槽尝试，如果有多条内存建议只剩一条内存 挨个换插槽尝试。
